@@ -4,9 +4,7 @@
     "database": "redis",
     "port": 4567,
     "redis": {
-        "host": "ec2-54-235-205-98.compute-1.amazonaws.com",
-        "port": "6919",
-        "password": "pt4p7s4golkt877ps8lafv6gs9",
-        "database": "h"
+        "host": "redis://h:pt4p7s4golkt877ps8lafv6gs9@ec2-54-235-205-98.compute-1.amazonaws.com:6919",
+        "database": "0"
     }
 }
